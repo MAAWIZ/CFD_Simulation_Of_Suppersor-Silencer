@@ -1,7 +1,7 @@
 # Exhaust Silencer CFD & CAD Analysis
 
 ## Overview
-This repository contains the computer-aided design (CAD) assembly and Computational Fluid Dynamics (CFD) simulation files for a multi-baffle exhaust silencer (muffler). The project evaluates internal flow patterns, velocity distribution, and pressure drop characteristics using Creo Parametric and ANSYS Fluent.I did not create threads to keep meshing under Ansys student license limit.
+This repository contains the computer-aided design (CAD) assembly and Computational Fluid Dynamics (CFD) simulation files for a multi-baffle exhaust silencer (muffler). The project evaluates internal flow patterns, velocity distribution, and pressure drop characteristics using Creo Parametric and ANSYS Fluent. I did not create threads to keep meshing under Ansys student license limit.
 
 ---
 
